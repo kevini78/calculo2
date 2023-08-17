@@ -5,7 +5,7 @@ int main(){
     printf(" Digite o numero ");
     scanf("%d",&num1);
     resultadoMultiplicacao = num1 * 2;
-    printf("O dobro do numero 1 é %d", resultadoMultiplicacao);
+    printf("O dobro do numero é %d", resultadoMultiplicacao);
 
 
 
